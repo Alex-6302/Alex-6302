@@ -5,7 +5,9 @@
 **Hope to be a software engineer**
 
 <br/>
+
 ![头像](2.jpg)
+
 <!--
 **Alex-6302/Alex-6302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
